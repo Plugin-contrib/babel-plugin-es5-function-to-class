@@ -38,7 +38,7 @@ var globalClassName;
 var globalConstructor;
 var globalConstructorParams;
 var globalSuffixToAddInProgramBody;
-module.exports =  ({types}) => {
+export default function({types: t}) => {
     return {
         name: "es5-function-to-es6-class", // not required
         visitor: {

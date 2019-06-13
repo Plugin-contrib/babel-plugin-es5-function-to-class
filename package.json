@@ -3,10 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "engines": {
+    "node": ">=6",
+    "npm": ">=5"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {},
+  "keywords": [
+    "babel",
+    "babel-plugin",
+  ],
+  "author": "Aniketh Saha <anik220798@gmail.com> (https://anikethsaha.github.io)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anikethsaha/babel-plugin-es5-function-to-class.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anikethsaha/babel-plugin-es5-function-to-class/issues"
+  },
+  "homepage": "https://github.com/anikethsaha/babel-plugin-es5-function-to-class#readme"
 }
