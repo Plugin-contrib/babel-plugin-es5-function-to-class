@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "💎 Transform ES5 Functions to ES6 Classes",
   "main": "src/index.js",
-    "engines": {
+  "engines": {
     "node": ">=6",
     "npm": ">=5"
   },
