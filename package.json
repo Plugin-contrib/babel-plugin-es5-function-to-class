@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-es5-function-to-class",
   "version": "1.0.0",
-  "description": "",
+  "description": "💎 Transform ES5 Functions to ES6 Classes",
   "main": "src/index.js",
     "engines": {
     "node": ">=6",
