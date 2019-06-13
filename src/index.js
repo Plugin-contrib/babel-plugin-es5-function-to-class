@@ -38,7 +38,10 @@ var globalClassName;
 var globalConstructor;
 var globalConstructorParams;
 var globalSuffixToAddInProgramBody;
-module.exports = ({types: t}) => {
+module.exports = (babel) => {
+    const {
+        types: t
+    } = babel;
     return {
         name: "es5-function-to-es6-class", // not required
         visitor: {
