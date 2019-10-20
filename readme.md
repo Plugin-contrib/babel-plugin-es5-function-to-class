@@ -84,7 +84,7 @@ class Controller {
 
 ---
 
-## Maintainer by 
+## Maintained by 
 
 <img alt="pluggingIn logo" src="https://imgur.com/kjyrz79.png" width="250px" />
 
