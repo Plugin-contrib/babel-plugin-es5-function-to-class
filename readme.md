@@ -88,3 +88,6 @@ class Controller {
 
 <img alt="pluggingIn logo" src="https://imgur.com/kjyrz79.png" width="250px" />
 
+## Author
+
+[Aniketh Saha](https://twitter.com/__ANIX__)
